@@ -36,6 +36,10 @@ section {
             a {
                 text-decoration: none;
                 color: #8257e6;
+                &:hover {
+                    text-decoration: underline;
+                    color: #9a78eb;
+                }
 
 
             }
